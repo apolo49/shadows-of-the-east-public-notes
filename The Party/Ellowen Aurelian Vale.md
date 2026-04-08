@@ -11,7 +11,7 @@ aliases:
 >#### _Wizard_
 >|||
 >|-|-|
->|Born|[[Setting-old/Semantics/Dating/index\|8th of Atmi 1758 IOG]] (age 23), [[Wiesen]], [[Duchy of Brackenfall]]|
+>|Born|[[Setting/Semantics/Dating/index\|8th of Atmi 1758 IOG]] (age 23), [[Wiesen]], [[Duchy of Brackenfall]]|
 >|Class|Wizard 3|
 >|Background|Noble|
 >|Race|Half-Elf|

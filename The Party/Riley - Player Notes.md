@@ -10,7 +10,7 @@ title: Riley
 >#### _Rogue_
 >|||
 >|-|-|
->|Born|[[Setting-old/Semantics/Dating/index\|16th of Minumi 1762 IOG]] (age 19), [[Amphos]], [[Eastern Solaran Empire]]|
+>|Born|[[Setting/Semantics/Dating/index\|16th of Minumi 1762 IOG]] (age 19), [[Amphos]], [[Eastern Solaran Empire]]|
 >|Class|Rogue 3, Thief|
 >|Background|Criminal|
 >|Race|Half-Tabaxi, Tabaxi traits|

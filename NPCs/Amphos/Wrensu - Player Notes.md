@@ -7,7 +7,7 @@ title: Wrensu
 >#### _Rogue NPC_
 >|||
 >|-|-|
->|**Born**| [[Setting-old/Semantics/Dating/index\|9th of Flami 1737 IOG]] (age 44), [[Amphos]], [[Eastern Solaran Empire]]|
+>|**Born**| [[Setting/Semantics/Dating/index\|9th of Flami 1737 IOG]] (age 44), [[Amphos]], [[Eastern Solaran Empire]]|
 >|**Background**|Criminal|
 >|**Race**|Goliath|
 
