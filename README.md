@@ -1,1 +1,0 @@
-# shadow-of-the-east-public-notes
