@@ -16,7 +16,7 @@ aliases:
 >|**Background**|Noble|
 >|**Race**|Half-Elf|
 >|**Languages**|[[Solari (Language)\|Solari]] (classical) (Literate), [[Common]] (Literate, Fluent when Spoken), [[Aeikas]] (classical and modern) (Literate, Fluent when Spoken)| 
->|**Relatives**|[[Alaric Aurelian Vale - Player Notes|Alaric Aurelian Vale]] (father)|
+>|**Relatives**|[[Alaric Aurelian Vale - Player Notes\|Alaric Aurelian Vale]] (father)|
 >|**Element**|[[Water]]|
 
 **Ellowen** is a reserved half-elf travelling with the party, whose composed exterior masks a background tied to nobility and hidden identity. Though she presents herself with caution and restraint, moments (such as her recognition by figures like [[Tabtab - Player Notes|Tabtab]]) reveal connections to places like [[Brackenfall]] and the [[Keep of the Aurelian Vale Family in Amphos]], suggesting a past of significance she does not share. Ellowen operates with quiet awareness and deliberation, maintaining control over what she reveals, and her presence within the party carries an undercurrent of secrecy that has yet to be fully uncovered.
