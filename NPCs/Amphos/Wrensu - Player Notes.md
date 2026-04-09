@@ -11,8 +11,6 @@ title: Wrensu
 >|**Background**|Criminal|
 >|**Race**|Goliath|
 
-# Wrensu
-
 **Wrensu** is a mysterious figure, associate and adoptive father of [[Riley]], acting as a handler and coordinator for various illicit activities within the city of [[Amphos]].
 
 ## Overview
