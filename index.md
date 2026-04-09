@@ -19,16 +19,16 @@ At the bottom of every page (including this one) is a comment section, please ap
 
 Want to see your own personality and un-edited contributions? Then add your own files!
 
-> Clone the public campaign notes repository
-> `git clone https://github.com/apolo49/shadows-of-the-east-public-notes.git`
-> Add your files where you believe they belong.
-> 	Feel free to add any images to the `Resources` folder.
-> 		Please do it as `webp`, `avif`, `jxl` or `jpg` image as those are best for image file size.
-> 	All notes are `markdown`/`.md`.
-> 		[You can learn how to write it here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-> 	As an aside I think it is best to have an idea of how things look to do this [use what I use: Obsidian](https://obsidian.md) with the `its-theme` and `git` extension.
-> Push them up!
-> `git add .; git commit -am '<your-message-here>'; git push`
+- Clone the public campaign notes repository
+	- `git clone https://github.com/apolo49/shadows-of-the-east-public-notes.git`
+- Add your files where you believe they belong.
+	- Feel free to add any images to the `Resources` folder.
+		- Please do it as `webp`, `avif`, `jxl` or `jpg` image as those are best for image file size.
+	- All notes are `markdown`/`.md`.
+		- [You can learn how to write it here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+> As an aside I think it is best to have an idea of how things look to do this [use what I use: Obsidian](https://obsidian.md) with the `its-theme` and `git` extension.
+- Push them up!
+	- `git add .; git commit -am '<your-message-here>'; git push`
 
 
 # The Party

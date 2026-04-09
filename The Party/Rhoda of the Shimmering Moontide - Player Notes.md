@@ -6,13 +6,13 @@ aliases:
 ---
 >[!infobox|wikipedia]
 ># Rhoda
->INSERT IMAGE HERE
+>![[rhoda-land.webp|250]]
 >#### _Bard_
 >|||
 >|-|-|
->|Born|[[The Shimmering Moontide]]|
->|Class|Bard 3|
->|Background|Entertainer|
->|Race|Merfairy|
->|Element|None|
+>|**Born**|[[The Shimmering Moontide]]|
+>|**Class**|Bard 3|
+>|**Background**|Entertainer|
+>|**Race**|Merfairy|
+>|**Element**|None|
 

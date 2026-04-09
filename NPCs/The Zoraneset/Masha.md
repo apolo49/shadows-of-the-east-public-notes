@@ -9,10 +9,10 @@ aliases:
 >#### _Cleric NPC_
 >|||
 >|-|-|
->|Age|Unknown, appeared around 30|
->|Background|Traveler|
->|Race|Firbolg|
->|Alias|Masha|
+>|**Age**|Unknown, appeared around 30|
+>|**Background**|Traveler|
+>|**Race**|Firbolg|
+>|**Alias**|Masha|
 
 **Masha** was an ally of the party who was introduced during **Act 1** of the campaign.
 

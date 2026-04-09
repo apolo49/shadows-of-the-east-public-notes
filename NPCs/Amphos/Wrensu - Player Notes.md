@@ -3,7 +3,7 @@ title: Wrensu
 ---
 >[!infobox|wikipedia]
 ># Wrensu
->INSERT IMAGE HERE
+>![[wrensu.webp|250]]
 >#### _Rogue NPC_
 >|||
 >|-|-|

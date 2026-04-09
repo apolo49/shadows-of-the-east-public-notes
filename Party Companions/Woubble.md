@@ -3,6 +3,8 @@ title: Woubble
 ---
 Tiny Ooze, Lawful Good
 
+![[woubble.webp|250]]
+
 ![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
 
 Armor Class 7 Natural

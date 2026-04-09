@@ -3,7 +3,7 @@ title: Alaric Aurelian Vale
 ---
 >[!infobox|wikipedia]
 ># Alaric Aurelian Vale
->INSERT IMAGE HERE
+>![[alaric-aurelian-vale.webp|250]]
 >#### _Duke of Brackenfall_
 >|||
 >|-|-|
