@@ -19,6 +19,10 @@ title: Yvaquis
 >|**Languages**|[[Solari (Language)\|Solari]] (classical) (Literate), [[Common]] (Literate, Fluent when Spoken), [[Aeikas]] (classical and modern) (Literate, Fluent when Spoken)|
 >|**Element**|[[Earth]]|
 
+**Evangeline Marquis** (or **Yvaquis**) is a mysterious and perceptive figure whose involvement in the campaign begins during the heist of the [[Temple to Tolaume]], where she becomes bound to the [[Elements#Earth Stone|Earth Stone]]. Initially travelling with a separate group, she joins the party early in the campaign and quickly demonstrates both restraint and latent power.
+
+Her story is defined by secrecy and revelation, most notably the exposure of her true identity as **Evangeline Marquis**, a fact accidentally revealed during the voyage aboard [[The Zoraneset]]. She exhibits a profound connection to the natural and elemental world, communing with the land, reshaping terrain, and receiving communication from her stone, marking her as one of the party’s most intrinsically linked.
+
 # Backstory
 
 # In the Campaign

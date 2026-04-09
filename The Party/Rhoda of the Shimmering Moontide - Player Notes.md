@@ -18,6 +18,10 @@ aliases:
 >|**Element**|None|
 >|**Alias**|The Luminous Bard|
 
+**Rhoda of the Shimmering Moontide**, also known as “The Luminous Bard,” is a merfairy performer and wandering storyteller who originates from the bioluminescent reefs of the [[Shimmering Moonrise Reefs]]. Raised among ancient songs, spirits, and oceanic traditions, she leaves her homeland to pursue a life of freedom and expression beyond the constraints of the [[Council of Tides]].
+
+Defined by her vibrant appearance and deep connection to music and lore, Rhoda carries forward forgotten histories and magical traditions through performance. Though she currently lacks an [[Elements#Elemental Stones|elemental stone]] and elemental powers, unlike her companions, her knowledge, artistry, and outsider perspective position her as a unique and culturally significant member of the party.
+
 # Backstory
 Rhoda was born beneath a full moon above the glowing waters of the [[Shimmering Moonrise Reefs]], where coral towers shimmered like fallen stars and bioluminescent gardens lit the deep like constellations.
 

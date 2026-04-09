@@ -1,0 +1,5 @@
+The **First Puli** is a mysterious and powerful entity associated with the [[Elements#Soul Stone|Soul Stone]]. It communicates directly with [[Big Beefy Bob - Player Notes|Big Beefy Bob]] through visions known as “Dead Dreams,” suggesting a unique link between the entity and Bob’s role as the stone’s wielder.
+
+Very little is concretely understood about its nature, but it appears to possess deep knowledge of past events, lost souls, and possibly the structure of the elemental system itself. Its communication is cryptic and symbolic rather than direct, implying either limitations in how it can interact with the world or a deliberate obscuring of truth.
+
+The First Puli’s intentions remain unclear. While it has not acted with open hostility, its influence is unsettling and difficult to interpret, placing it somewhere between a guide and an unknowable force. Its connection to death and memory suggests it may represent, or guard, an aspect of the elemental balance that has been forgotten, altered, or lost.

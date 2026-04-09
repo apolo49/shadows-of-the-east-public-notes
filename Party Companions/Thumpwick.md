@@ -1,0 +1,1 @@
+**Thumpwick** is [[Ellowen Aurelian Vale|Ellowen's]] owl familiar. He appears to be extremely loyal but disobedient of Ellowen when he chooses to be, preferring to be present on [[The Zoraneset]] instead of waiting inside his "Pokéball" (as Ellowen's player calls it).

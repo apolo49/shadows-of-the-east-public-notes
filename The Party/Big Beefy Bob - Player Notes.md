@@ -10,11 +10,15 @@ title: Big Beefy Bob
 >#### _Fighter, Barbarian, Big Beefy Guy_
 >|||
 >|-|-|
->|**Born**|[[Dating\|20th of Shumi, 1757 IOG]]|
+>|**Born**|[[Setting/Semantics/Dating/index\|20th of Shumi, 1757 IOG]]|
 >|**Class**|Fighter 2, Barbarian 1|
 >|**Race**|Half-Orc|
 >|**Languages**|[[Common]] (Illiterate, Fluent when Spoken), [[Aeikas]] (classical and modern) (illiterate, Fluent when Spoken)|
 >|**Element**|[[Soul]]|
+
+**Big Beefy Bob** is a half-orc warrior and front-line combatant whose immense strength and resilience make him a cornerstone of the party. Present at the heist of the [[Temple to Tolaume]], he becomes closely tied to the elemental conflict after coming into possession of the [[Elements#Soul Stone|Soul Stone]], an event triggered by its protective mechanisms.
+
+Throughout the campaign, Bob experiences increasingly intense supernatural phenomena, including recurring “Dead Dreams” and direct communication from entities such as the [[First Puli]]. These visions, combined with his role as both protector and investigator, such as identifying the killer aboard [[The Zoraneset]], position him as a figure deeply connected to death, memory, and the unseen forces shaping the world.
 
 # Backstory
 

@@ -18,6 +18,10 @@ title: Riley
 >|**Relatives**|[[Wrensu - Player Notes\|Wrensu]] (Adoptive father)|
 >|**Element**|[[Elements#Fire Stone\|Fire]]
 
+**Riley**, also known as “The Freedom Cat,” is a half-Tabaxi rogue from [[Amphos]] whose life of crime draws him into the central conflict of the campaign. Initially operating as a thief in the city’s slums, he initiates the heist on the [[Temple to Tolaume]] after learning of the [[Elements#Elemental Stones|Elemental Stones]], ultimately becoming bound to the [[Elements#Fire Stone|Fire Stone]].
+
+Riley’s journey is marked by personal loss and instability, including the disappearance of his adoptive father [[Wrensu - Player Notes|Wrensu]] and the destruction of his home. Despite this, he plays a pivotal role in the party’s survival, breaking into restricted locations, disrupting enemies, and enabling escapes, while struggling with addiction, identity, and the psychological toll of the stones’ influence.
+
 # Backstory
 Riley was born, in a barn, into a poor family and his Tabaxi father was executed for his crimes by the royal family before he was born, and his Human mother went into hiding. Wrensu told him that nobody was left to assist his mother during the birthing process.
 
