@@ -4,7 +4,7 @@ title: Tabtab
 >[!infobox|wikipedia]
 ># Tabtab
 >![[Tabtab.webp|250]]
->##### _Apothecary_
+>#### _Apothecary_
 >|||
 >|-|-|
 >|**Age**|Appears to be roughly 16|

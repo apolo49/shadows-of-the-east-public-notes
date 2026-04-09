@@ -2,6 +2,7 @@
 aliases:
   - Big Beefy Bob
   - Bob
+  - Magnus Mitis
 title: Big Beefy Bob
 ---
 >[!infobox|wikipedia]
@@ -10,17 +11,23 @@ title: Big Beefy Bob
 >#### _Fighter, Barbarian, Big Beefy Guy_
 >|||
 >|-|-|
->|**Born**|[[Setting/Semantics/Dating/index\|20th of Shumi, 1757 IOG]]|
->|**Class**|Fighter 2, Barbarian 1|
->|**Race**|Half-Orc|
->|**Languages**|[[Common]] (Illiterate, Fluent when Spoken), [[Aeikas]] (classical and modern) (illiterate, Fluent when Spoken)|
->|**Element**|[[Soul]]|
+>|**Born**|[[Setting/Semantics/Dating/index\|20th of Shumi, 1757 IOG]], [[Svampen]], [[Kingdom of Weinland]]|
+>|**Class**|Fighter 2, Barbarian 1, Bob For the Win Class 20|
+>|**Race**|Half-Orc, Half-Human, Full Big Beefy Guy|
+>|**Languages**|[[Common]] (illiterate as per observations from Ellowen, Swears he's fluent when spoken), [[Aeikas]] (modern) (illiterate, appears to be fluent when spoken)|
+>|**Family**|Not even Bob knows but probably very much alive|
+>|**Element**|[[Elements#Soul Stone\|Element of Puli Maxxing]]|
 
 **Big Beefy Bob** is a half-orc warrior and front-line combatant whose immense strength and resilience make him a cornerstone of the party. Present at the heist of the [[Temple to Tolaume]], he becomes closely tied to the elemental conflict after coming into possession of the [[Elements#Soul Stone|Soul Stone]], an event triggered by its protective mechanisms.
 
 Throughout the campaign, Bob experiences increasingly intense supernatural phenomena, including recurring “Dead Dreams” and direct communication from entities such as the [[First Puli]]. These visions, combined with his role as both protector and investigator, such as identifying the killer aboard [[The Zoraneset]], position him as a figure deeply connected to death, memory, and the unseen forces shaping the world.
 
 # Backstory
+When Bob was young his parents gave him to [[Cult of Paroshinat|a cult]]. His parents had put him into the cult as he was very boisterous and strong, and they felt like he was "too much to handle." When he joined the cult, that was when he was given the name Big Beefy Bob. It was also when he was given the little orange hat that he always wears.
+
+Big Beefy Bob cannot remember anything from his past, and believes he was born in the cult, and that he was only brought to life to do what the cult leader tells him to. He doesn't really understand what a family actually is.
+
+Bob is mainly adventuring as he was out recruiting suitable people for his cult; looking for people he feels like would be a good fit. He is also enjoying the opportunity to learn about the world around him more and the world outside the cult, exploring magic and new environments.
 
 # In the Campaign
 
