@@ -7,7 +7,7 @@ title: Big Beefy Bob
 >[!infobox|wikipedia]
 ># Big Beefy Bob
 >![[big_beefy_bob.webp|250]]
->#### _Fighter/Barbarian/Big Beefy Guy_
+>#### _Fighter, Barbarian, Big Beefy Guy_
 >|||
 >|-|-|
 >|**Born**|[[Dating\|20th of Shumi, 1757 IOG]]|

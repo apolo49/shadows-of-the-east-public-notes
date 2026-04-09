@@ -8,7 +8,7 @@ title: John Ironchest
 >[!infobox|wikipedia]
 ># John Ironchest
 >![[john-ironchest.webp|250]]
->#### _Fighter_
+>#### _Fighter, Champion Bodybuilder_
 >|||
 >|-|-|
 >|**Born**|[[Duchy of Dornsia]]|

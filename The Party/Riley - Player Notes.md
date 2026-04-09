@@ -7,7 +7,7 @@ title: Riley
 >[!infobox|wikipedia]
 ># Riley
 >![[riley.webp|250]]
->#### _Rogue_
+>#### _Rogue, Femboy_
 >|||
 >|-|-|
 >|**Born**|[[Setting/Semantics/Dating/index\|16th of Minumi 1762 IOG]] (age 19), [[Amphos]], [[Eastern Solaran Empire]]|
@@ -16,6 +16,7 @@ title: Riley
 >|**Race**|Half-Tabaxi, Tabaxi traits|
 >|**Languages**|[[Common]] (Fluent when Spoken, Illiterate), [[Aeikas]] (modern) (mostly illiterate, Fluent when Spoken)|
 >|**Relatives**|[[Wrensu - Player Notes\|Wrensu]] (Adoptive father)|
+>|**Element**|[[Elements#Fire Stone\|Fire]]
 
 # Backstory
 Riley was born, in a barn, into a poor family and his Tabaxi father was executed for his crimes by the royal family before he was born, and his Human mother went into hiding. Wrensu told him that nobody was left to assist his mother during the birthing process.
