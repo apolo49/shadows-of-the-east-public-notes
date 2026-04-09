@@ -10,6 +10,7 @@ aliases:
 >|||
 >|-|-|
 >|**Age**|Unknown, appeared around 30|
+>|**Died**|[[Dating\|4th Hanomi 1782 IOG]], [[The Zoraneset]], [[Pithertara]], [[Pithertara Province]], [[Eastern Solaran Empire]]|
 >|**Background**|Traveler|
 >|**Race**|Firbolg|
 >|**Alias**|Masha|

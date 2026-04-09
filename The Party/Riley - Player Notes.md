@@ -20,7 +20,7 @@ title: Riley
 # Backstory
 Riley was born, in a barn, into a poor family and his Tabaxi father was executed for his crimes by the royal family before he was born, and his Human mother went into hiding. Wrensu told him that nobody was left to assist his mother during the birthing process.
 
-When he turned four, Wrensu, a fellow rogue, began to show him how to pickpocket. He practiced the craft for years and by the time he was eight he could do execute the skill near-flawlessly. By the time he turned eleven he got his first knives. These helped him fight off competing thieves and attackers who targeted him and steal for no reason other than personal gain. Around the same age he got his first lute which he devoted himself to religiously.
+When he turned four, [[Wrensu - Player Notes|Wrensu]], a fellow rogue, began to show him how to pickpocket. He practiced the craft for years and by the time he was eight he could do execute the skill near-flawlessly. By the time he turned eleven he got his first knives. These helped him fight off competing thieves and attackers who targeted him and steal for no reason other than personal gain. Around the same age he got his first lute which he devoted himself to religiously.
 
 Due to being half-tabaxi he has been cast aside for being too effeminate and if not he was taken advantage of. Tabaxi are also extremely rare and foreign to the people of Amphos, western [[As]] and [[Shul]], being native to the far-eastern kingdoms, especially [[Divine Empire of Daxing]] and countries further east of it. Because of the way people have treated him, he has trouble making true, genuine friends and trusting people.
 
