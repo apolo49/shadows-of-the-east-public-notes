@@ -1,6 +1,17 @@
 ---
 title: Ellowen's Betrothal Letter
 ---
+>[!infobox|wikipedia]
+># Ellowen's Betrothal Letter
+>#### Information
+>|||
+>|-|-|
+>|**Creator**|[[Bardashes]], Koronuganamon, Emperor of The Eastern Solaran Empire|
+>|**Recipient**|[[Alaric Aurelian Vale - Player Notes\|Alaric Aurelian Vale]]|
+>|**Type**|Letter|
+>|**Language**|[[Aeikas]]|
+>|**Current Possessor**|[[Ellowen Aurelian Vale\|Ellowen]]|
+
 To [[Alaric Aurelian Vale]], Duke of [[Brackenfall]], and to the House that bears his name,
 
 The Sun moves, and the world follows.  

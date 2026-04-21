@@ -1,6 +1,19 @@
+>[!infobox|wikipedia]
+># Ellowen's Book
+>![[ellowens_book.webp|250]]
+>#### Information
+>|||
+>|-|-|
+>|**Author**|*Unknown*|
+>|**Age**|*Unknown*|
+>|**Type**|Book|
+>|**Language**|*Unknown*, speaks in [[Aeikas]]|
+>|**Current Possessor**|[[Ellowen Aurelian Vale\|Ellowen]]|
+>|**Retrieved**|[[Setting/Semantics/Dating/index\|1st Hanomi 1782 IOG]], [[Temple to Tolaume]], [[Amphos]]|
+
 **Ellowen's book** is a book that was found by [[Riley]] in the archives of the [[Temple to Tolaume]] in [[Amphos]] and was _liberated_ by [[Ellowen]]. Since picking up the book, every night Ellowen has words spoken to her by the book during her meditation. Normally a verse at a time.
 
-The book is bound in white leather with gold ornamentation and a single red-rock reminiscent of the one Riley is carrying. It appears to be at least 1300 years old.
+The book is bound in white leather with gold ornamentation and a single red-rock in the centre, reminiscent of the one Riley is carrying. It appears to be at least 1300 years old.
 
 # Spoken Pieces
 
@@ -37,3 +50,13 @@ But law is a thin shield when one holds no name.
 They called me _horabos_.  
 I began to believe it.  
 The soul reshapes itself around the words others force upon it.
+
+Yet within those same walls the gods of my ancestors found me again.  
+I swept the temple floors,  
+and in the scent of burned herbs I felt the faint breath of divinity—  
+a reminder that even a slave may stand beneath the same sky as kings.
+
+---
+
+The first flame I summoned was a mistake.  
+Most beginnings are.
