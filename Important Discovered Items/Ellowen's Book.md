@@ -60,3 +60,9 @@ a reminder that even a slave may stand beneath the same sky as kings.
 
 The first flame I summoned was a mistake.  
 Most beginnings are.
+
+It leapt from my hands in a moment of terror,  
+when a blow intended to break my ribs instead birthed my awakening.  
+I set the house aflame.  
+I do not write this with pride.  
+The fire was not justice; it was hunger.
