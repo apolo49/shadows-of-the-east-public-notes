@@ -32,7 +32,7 @@ Bob is mainly adventuring as he was out recruiting suitable people for his cult;
 # In the Campaign
 
 ## Session 1 — The Stones in Amphos
-Big Beefy Bob enters the story in the [[Northern Slums]] marketplace of [[Amphos]], where he becomes an early, unwitting participant in the chaos to come — [[Riley - Player Notes|Riley]] leaps over him and steals [[Big Beefy Bob's Little Orange Hat|his little orange bowler hat]], which Bob promptly recovers after the temple heist later that night. That hat, adorned with a symbol of the cult he was once part of, will quietly unsettle at least one party member long before its significance is understood.
+Big Beefy Bob enters the story in the [[Northern Slums]] marketplace of [[Campaign 2 - Shadows of the East/Player Notes/Settlements/Amphos|Amphos]], where he becomes an early, unwitting participant in the chaos to come — [[Riley - Player Notes|Riley]] leaps over him and steals [[Big Beefy Bob's Little Orange Hat|his little orange bowler hat]], which Bob promptly recovers after the temple heist later that night. That hat, adorned with a symbol of the cult he was once part of, will quietly unsettle at least one party member long before its significance is understood.
 
 At midnight, Bob serves as the heist's muscle, taking out the temple guard to allow the party entry into the inner chamber. Once inside the vault, he follows [[Ellowen Aurelian Vale|Ellowen]] and picks up a black stone — breaking it. Whatever that stone was, it is gone. But something else is waiting for him. The [[Elements#Soul Stone|Soul Stone]] is locked behind the door of [[Academy of the Arcane in Amphos|the Academy]]'s Protected Archive, and when the party make their way there following the heist, Bob feels it before he sees it. He begins banging on the door, drawn to the stone on the other side by a pull he cannot explain. When Riley's disastrous attempt to break into the archive triggers the Soul Stone's protection mechanism, the stone launches itself to its chosen protector: Big Beefy Bob. It chooses him.
 
@@ -44,7 +44,7 @@ The party flee Amphos north-west with arrest warrants on their heads. At [[The H
 
 The next morning at the inn, a hooded figure is seated alone on the upper landing, writing. Bob, unaware that this quiet stranger is in fact the [[The Prince - Player Notes|Prince of Amphos]] travelling in disguise — and apparently hungry — begins feeding him gruel. The prince begrudgingly accepts it. From this entirely one-sided interaction, Bob declares him his "second bestest bestie," with Ellowen holding the position of "first bestest bestie." The prince's true identity remains entirely unknown to Bob throughout this encounter and to the present.
 
-The party take on a rat-clearing job to obtain a letter of passage and then probe the inn's locked guest rooms, discovering a lute and finding a pirate-related letter establishing their next destination: [[Aklebe]].
+The party take on a rat-clearing job to obtain a letter of passage and then probe the inn's locked guest rooms, discovering a lute and finding a pirate-related letter establishing their next destination: [[Campaign 2 - Shadows of the East/Player Notes/Settlements/Aklebe|Aklebe]].
 
 ## Session 3 — The Path
 
@@ -78,7 +78,7 @@ Bob is not without motive in the eyes of the investigation — the captain had i
 
 During the investigation, Ellowen uses Disguise Self to take on the appearance of the dead Mari Shkari. When Bob discovers her in this form, Ellowen, who has to try and fool Bob, offers the memorable assessment that Mari Shkari has "a lot of blood" and that it "runs in the family." His Dead Dreams continue throughout, becoming noticeable enough to his companions that the supernatural voices are no longer something he can easily conceal.
 
-At [[Pithertara]], Bob reaches the conclusion that Dashos is the killer and hands him over to the local authorities. As the suspect is processed, [[The Tagaminase]] — imperial soldiers — arrive and arrest Masha for her involvement in the bombing of [[The Great Palace of Amphos]]. She fights for her escape and is beheaded. It is the first death in the party's close circle, and Bob was there when it happened.
+At [[Campaign 2 - Shadows of the East/Player Notes/Settlements/Pithertara|Pithertara]], Bob reaches the conclusion that Dashos is the killer and hands him over to the local authorities. As the suspect is processed, [[The Tagaminase]] — imperial soldiers — arrive and arrest Masha for her involvement in the bombing of [[The Great Palace of Amphos]]. She fights for her escape and is beheaded. It is the first death in the party's close circle, and Bob was there when it happened.
 
 # Astragalomancy Prophecy
 **[[Shuzi|Dashos]]** - Death does not frighten you; it bows to you. You stand as the gatekeeper of the transition. At your command, the departed find peace or find vengeance. You walk through the valley of the shadow, and the shadow itself shrinks away from your light.

@@ -10,7 +10,7 @@ title: Riley
 >#### _Rogue, Femboy_
 >|||
 >|-|-|
->|**Born**|[[Setting/Semantics/Dating/index\|16th of Minumi 1762 IOG]] (age 19), [[Amphos]], [[Eastern Solaran Empire]]|
+>|**Born**|[[Setting/Semantics/Dating/index\|16th of Minumi 1762 IOG]] (age 19), [[Campaign 2 - Shadows of the East/Player Notes/Settlements/Amphos\|Amphos]], [[Eastern Solaran Empire]]|
 >|**Class**|Rogue 3, Thief|
 >|**Background**|Criminal|
 >|**Race**|Half-Tabaxi, Tabaxi traits|
@@ -18,7 +18,7 @@ title: Riley
 >|**Relatives**|[[Wrensu - Player Notes\|Wrensu]] (Adoptive father)|
 >|**Element**|[[Elements#Fire Stone\|Fire]]
 
-**Riley**, also known as “The Freedom Cat,” is a half-Tabaxi rogue from [[Amphos]] whose life of crime draws him into the central conflict of the campaign. Initially operating as a thief in the city’s slums, he initiates the heist on the [[Temple to Tolaume]] after learning of the [[Elements#Elemental Stones|Elemental Stones]], ultimately becoming bound to the [[Elements#Fire Stone|Fire Stone]].
+**Riley**, also known as “The Freedom Cat,” is a half-Tabaxi rogue from [[Campaign 2 - Shadows of the East/Player Notes/Settlements/Amphos|Amphos]] whose life of crime draws him into the central conflict of the campaign. Initially operating as a thief in the city’s slums, he initiates the heist on the [[Temple to Tolaume]] after learning of the [[Elements#Elemental Stones|Elemental Stones]], ultimately becoming bound to the [[Elements#Fire Stone|Fire Stone]].
 
 Riley’s journey is marked by personal loss and instability, including the disappearance of his adoptive father [[Wrensu - Player Notes|Wrensu]] and the destruction of his home. Despite this, he plays a pivotal role in the party’s survival, breaking into restricted locations, disrupting enemies, and enabling escapes, while struggling with addiction, identity, and the psychological toll of the stones’ influence.
 
@@ -32,7 +32,7 @@ Due to being half-tabaxi he has been cast aside for being too effeminate and if 
 He has had to embrace his feminine features and looks, and has learned to utilise them to take advantage of them. He has been able to convince others that he is, in-fact, a girl which has helped him acquire money and other resources in times of need. Feeding, at times, not only himself but others in the slums with him. Because of these actions he has started to be considered a local hero by the poor and those less fortunate. They have dubbed him "The Freedom Cat."
 
 # In the Campaign
-Riley joins the party during the heist at the [[Temple to Tolaume]] in [[Amphos]], where he works alongside a group of unlikely allies to steal the [[Elements#Elemental Stones|Elemental Stones]]. Amid the chaos, he aids in securing the party’s escape, quickly establishing himself as a pragmatic and capable presence within the group.
+Riley joins the party during the heist at the [[Temple to Tolaume]] in [[Campaign 2 - Shadows of the East/Player Notes/Settlements/Amphos|Amphos]], where he works alongside a group of unlikely allies to steal the [[Elements#Elemental Stones|Elemental Stones]]. Amid the chaos, he aids in securing the party’s escape, quickly establishing himself as a pragmatic and capable presence within the group.
 
 Following the heist, Riley flees Amphos with [[Ellowen Aurelian Vale|Ellowen]], [[Big Beefy Bob - Player Notes|Big Beefy Bob]], and [[Evangeline Marquis|Yvaquis]] as the group becomes wanted by local authorities. Throughout their escape, Riley takes on a steadying role—helping guide decisions, keeping the group focused, and adapting quickly to shifting dangers. He was also the individual who recovered the [[Missing Person's Poster for Evangeline Marquis|Missing Persons Poster for the Princess of Eivia]] and became alcohol dependant in the process.
 
@@ -44,7 +44,7 @@ Throughout the journey, Riley remains alert to the growing influence of his [[El
 
 When he met [[John Ironchest - Player Notes|John Ironchest]], he decided to offer him raw bacon and some rum, not considering his personal choices and as a result has insulted him causing a strain in their relationship. Riley frequently turns to Ellowen for approval on his ideas and runs his ideas past her, who, oftentimes, also returns this gesture in kind.
 
-In locations such as [[Aklebe]], aboard [[The Zoraneset]], and in [[Pithertara]], Riley continues to support the party through both action and judgement; helping navigate unfamiliar environments, maintaining operational focus, and ensuring the group remains aligned despite secrecy and emerging personal stakes.
+In locations such as [[Campaign 2 - Shadows of the East/Player Notes/Settlements/Aklebe|Aklebe]], aboard [[The Zoraneset]], and in [[Campaign 2 - Shadows of the East/Player Notes/Settlements/Pithertara|Pithertara]], Riley continues to support the party through both action and judgement; helping navigate unfamiliar environments, maintaining operational focus, and ensuring the group remains aligned despite secrecy and emerging personal stakes.
 
 # Astragalomancy Prophecy
 - **[[Hashos]]** - A spark dances at your fingertips. It will light your path and warm your hands, but do not grow complacent; even success can be fleeting when not honed.

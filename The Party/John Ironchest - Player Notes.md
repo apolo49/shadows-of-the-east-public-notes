@@ -18,7 +18,7 @@ title: John Ironchest
 >|**Languages**|[[Common]] (Literate, Fluent when Spoken), [[Aeikas]] (modern) (Literate, Fluent when Spoken)| 
 >|**Element**|[[Power]]|
 
-**John Ironchest** is a human fighter and devotee of physical perfection who joins the party after being discovered at a [[World Bodybuilding Order]] competition in [[Pithertara]]. His journey begins independently, travelling across the land in pursuit of strength before being drawn into the orbit of *the Elementals*.
+**John Ironchest** is a human fighter and devotee of physical perfection who joins the party after being discovered at a [[World Bodybuilding Order]] competition in [[Campaign 2 - Shadows of the East/Player Notes/Settlements/Pithertara|Pithertara]]. His journey begins independently, travelling across the land in pursuit of strength before being drawn into the orbit of *the Elementals*.
 
 Upon joining the group, John is revealed to be the wielder of the [[Elements#Power Stone|Power]] element. His role within the party is defined by endurance, discipline, and a singular focus on self-improvement, complemented by his growing significance within the emerging elemental framework.
 

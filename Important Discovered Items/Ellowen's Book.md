@@ -9,9 +9,9 @@
 >|**Type**|Book|
 >|**Language**|*Unknown*, speaks in [[Aeikas]]|
 >|**Current Possessor**|[[Ellowen Aurelian Vale\|Ellowen]]|
->|**Retrieved**|[[Setting/Semantics/Dating/index\|1st Hanomi 1782 IOG]], [[Temple to Tolaume]], [[Amphos]]|
+>|**Retrieved**|[[Setting/Semantics/Dating/index\|1st Hanomi 1782 IOG]], [[Temple to Tolaume]], [[Campaign 1 - Before the Start/DM Notes/Settlements/Cities/Amphos]]|
 
-**Ellowen's book** is a book that was found by [[Riley]] in the archives of the [[Temple to Tolaume]] in [[Amphos]] and was _liberated_ by [[Ellowen]]. Since picking up the book, every night Ellowen has words spoken to her by the book during her meditation. Normally a verse at a time.
+**Ellowen's book** is a book that was found by [[Riley]] in the archives of the [[Temple to Tolaume]] in [[Campaign 2 - Shadows of the East/Player Notes/Settlements/Amphos|Amphos]] and was _liberated_ by [[Ellowen]]. Since picking up the book, every night Ellowen has words spoken to her by the book during her meditation. Normally a verse at a time.
 
 The book is bound in white leather with gold ornamentation and a single red-rock in the centre, reminiscent of the one Riley is carrying. It appears to be at least 1300 years old.
 
@@ -26,7 +26,7 @@ I remember losses more clearly than the name my mother whispered to me on the mo
 Memory abandons kindness first; cruelty is loyal.
 
 I knew nothing of the [[Buno Walls]] except the dust that gathered beneath them,  
-and the noise of [[Solaum|the city]] that lived on the other side;  
+and the noise of [[Campaign 1 - Before the Start/DM Notes/Settlements/Cities/Solaum|the city]] that lived on the other side;  
 a world I believed distant as the stars.  
 My parents were unremarkable, they told me.  
 I remember little of them except the ordinary quiet of their lives.  
@@ -40,7 +40,7 @@ And so I learned both at once.
 
 ---
 
-[[Itrea]] was beautiful.  
+[[Campaign 1 - Before the Start/DM Notes/Settlements/Cities/Itrea|Itrea]] was beautiful.  
 A cruel lesson: beauty and suffering often share a roof.  
 The temples gleamed like the teeth of a beast that meant to swallow me.  
 My masters beat me as one swats a fly  

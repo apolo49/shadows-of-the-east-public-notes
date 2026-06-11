@@ -23,6 +23,6 @@ The House of Aurelian Vale is, by this union, drawn from the Empire’s edge int
 The rites of union shall be observed during High Summer, at the Festival of the [[Unconquered Sun]], within the [[Solar Basilica of Amphos]], temple to the pantheon, where emperors are crowned and time is kept. Preparations are already underway, as is fitting.  
 [[Solaris Vanguard|The Vanguard]] will arrive when the season turns and will escort her thusly. They will not announce themselves twice.  
 You will return your sealed affirmation before the sun completes its next great turning, that all things may proceed without disturbance and the Empire may remain whole in its course.  
-As has been decreed by the great god [[Solaum (god)|Solaum]] of [[Solaum|the great city]] and the Solari Empire who has given us his blessing for our future, and let the great god [[Nari]], god of war, be absent from our futures.
+As has been decreed by the great god [[Solaum (god)|Solaum]] of [[Campaign 2 - Shadows of the East/Player Notes/Settlements/Solaum|the great city]] and the Solari Empire who has given us his blessing for our future, and let the great god [[Nari]], god of war, be absent from our futures.
 
 From [[Bardashes|Bardashes]], Koronuganamon, Mag Hirag ta Puli Solari.

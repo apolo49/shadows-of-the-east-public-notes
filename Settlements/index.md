@@ -1,0 +1,1 @@
+Here is a list of all settlements that have been either mentioned or visited by at least one party member and all known information about them.

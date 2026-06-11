@@ -10,7 +10,7 @@ title: The Prince
 >|**Age**|Appears to be 20|
 >|**Race**|Human|
 
-**The Prince** is an heir to the throne of the [[Solaran Empire]] (often referred to as the _Eastern Solaran Empire_ or _Amphosian Despotate_). Ruling from the capital city of [[Amphos]], he is a central figure in the regime that maintains the laws and prestige of the old Solaran Empire.
+**The Prince** is an heir to the throne of the [[Solaran Empire]] (often referred to as the _Eastern Solaran Empire_ or _Amphosian Despotate_). Ruling from the capital city of [[Campaign 1 - Before the Start/DM Notes/Settlements/Cities/Amphos]], he is a central figure in the regime that maintains the laws and prestige of the old Solaran Empire.
 
 # Background
 
@@ -28,4 +28,4 @@ When the party woke up the following day in the inn just north of Amphos, there 
 The party encountered him and [[Tabtab - Player Notes|his apothecary companion]] within [[The Panting Shadow]], where they were involved in the game of cups, the prince was quiet, despite Big Beefy Bob's approaches toward him. He ended up being one of the winners of the game alongside [[Ellowen]] who was growing increasingly frustrated at Tabtab. When they left he beckoned Tabtab to follow him.
 
 ## Session 5
-The party could briefly see a royal ship headed towards [[Itrea]] while they were on ship.
+The party could briefly see a royal ship headed towards [[Campaign 1 - Before the Start/DM Notes/Settlements/Cities/Itrea]] while they were on ship.

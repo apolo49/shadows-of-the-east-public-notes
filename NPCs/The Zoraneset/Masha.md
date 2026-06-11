@@ -10,7 +10,7 @@ aliases:
 >|||
 >|-|-|
 >|**Age**|Unknown, appeared around 30|
->|**Died**|[[Dating\|4th Hanomi 1782 IOG]], [[The Zoraneset]], [[Pithertara]], [[Pithertara Province]], [[Eastern Solaran Empire]]|
+>|**Died**|[[Dating\|4th Hanomi 1782 IOG]], [[The Zoraneset]], [[Campaign 1 - Before the Start/DM Notes/Settlements/Cities/Pithertara]], [[Pithertara Province]], [[Eastern Solaran Empire]]|
 >|**Background**|Traveler|
 >|**Race**|Firbolg|
 >|**Alias**|Masha|
@@ -23,13 +23,13 @@ Masha was categorized an ally to the party. She was an active participant in the
 
 ## Background
 
-Masha was involved with the party's dealings regarding _The Zoraneset_, a bireme dromon equipped with a siphon, and ballistae. She was known to have bombed [[The Great Palace of Amphos]] using gunpowder while discovering her way to [[Itrea]] under the guidance of her goddess, a trickster god.
+Masha was involved with the party's dealings regarding _The Zoraneset_, a bireme dromon equipped with a siphon, and ballistae. She was known to have bombed [[The Great Palace of Amphos]] using gunpowder while discovering her way to [[Campaign 1 - Before the Start/DM Notes/Settlements/Cities/Itrea]] under the guidance of her goddess, a trickster god.
 
 Masha first joined the party while they were gambling in [[The Panting Shadow]]. Here she was sitting trying to earn money to find her way to Itrea. She had her fortune told by the Oracle in the gambling den and was poisoned during the game of cups.
 
 While on the Zoraneset she was one of the primary suspects involved in the murder of [[Mari Shkari]].
 
-Once docked at [[Pithertara]] she was beheaded for attempted regicide and terrorism.
+Once docked at [[Campaign 1 - Before the Start/DM Notes/Settlements/Cities/Pithertara]] she was beheaded for attempted regicide and terrorism.
 
 ## Known Associates
 

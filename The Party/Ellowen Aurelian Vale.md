@@ -11,7 +11,7 @@ aliases:
 >#### _Wizard_
 >|||
 >|-|-|
->|**Born**|[[Setting/Semantics/Dating/index\|8th of Atmi 1758 IOG]] (age 23), [[Wiesen]], [[Duchy of Brackenfall]]|
+>|**Born**|[[Setting/Semantics/Dating/index\|8th of Atmi 1758 IOG]] (age 23), [[Campaign 2 - Shadows of the East/Player Notes/Settlements/Wiesen\|Wiesen]], [[Duchy of Brackenfall]]|
 >|**Class**|Wizard 3|
 >|**Background**|Noble|
 >|**Race**|Half-Elf|
@@ -26,12 +26,12 @@ aliases:
 
 Ellowen resembles her mother greatly, not only in her features but in her softness of spirit, intelligence, kindness, and curiosity. She carried her mother’s gentle presence in both mind and manner, a living echo of the woman Brackenfall adored.
 
-While she was young, Ellowen was sent to the arcane academy in Brackenfall, a satellite of the one in [[Amphos]], due to the two country's close relations. It was during her second year at the academy that Ellowen met Thumpwick. It was also during this time that a dragon attack had befallen the Brackenfallian capital of [[Wiesen]] and then the dragon shifted to the settlement of [[Harrowfen]] where Ellowen had been posted that morning. She caused the dragon to be impaled on a spire.
+While she was young, Ellowen was sent to the arcane academy in Brackenfall, a satellite of the one in [[Campaign 2 - Shadows of the East/Player Notes/Settlements/Amphos|Amphos]], due to the two country's close relations. It was during her second year at the academy that Ellowen met Thumpwick. It was also during this time that a dragon attack had befallen the Brackenfallian capital of [[Campaign 2 - Shadows of the East/Player Notes/Settlements/Wiesen|Wiesen]] and then the dragon shifted to the settlement of [[Harrowfen]] where Ellowen had been posted that morning. She caused the dragon to be impaled on a spire.
 
 Much later, Ellowen's father sent her to [[Academy of the Arcane in Amphos|one of the finest arcane academies in the world]], ensuring she would be shaped into something unbreakable.
 
 # In the Campaign
-Ellowen becomes involved with the party when she is drawn to the [[Elemental Stones]] during the heist at the [[Temple to Tolaume]] in [[Amphos]]. Guided by an unexplained pull, she claims the [[Water Stone]] and retrieves the [[Ellowen's Book]], placing her at the centre of the unfolding elemental narrative.
+Ellowen becomes involved with the party when she is drawn to the [[Elemental Stones]] during the heist at the [[Temple to Tolaume]] in [[Campaign 2 - Shadows of the East/Player Notes/Settlements/Amphos|Amphos]]. Guided by an unexplained pull, she claims the [[Water Stone]] and retrieves the [[Ellowen's Book]], placing her at the centre of the unfolding elemental narrative.
 
 Following the heist, she flees Amphos alongside [[Riley - Player Notes|Riley]], [[Big Beefy Bob - Player Notes|Big Beefy Bob]], and [[Evangeline Marquis|Yvaquis]] as the party becomes wanted by the authorities. During their escape, Ellowen maintains a guarded demeanour, deflecting questions about her background even when confronted by guards of the [[Keep of the Aurelian Vale Family in Amphos|Aurelian Vale Keep]].
 
@@ -41,7 +41,7 @@ At the [[The Heavy Head Inn]], Ellowen reveals a critical piece of her past: [[E
 
 Throughout the journey, she repeatedly identifies the Prince travelling in disguise but deliberately withholds this information from the party, indicating both caution and political awareness.
 
-In [[Aklebe]], her noble identity nearly becomes exposed when [[Tabtab]] recognises her as “Lady Ellowen,” referencing [[Brackenfall]] and the [[Aurelian Keep]]. Despite the risk, Ellowen maintains composure and avoids revealing the truth to her companions.
+In [[Campaign 2 - Shadows of the East/Player Notes/Settlements/Aklebe|Aklebe]], her noble identity nearly becomes exposed when [[Tabtab]] recognises her as “Lady Ellowen,” referencing [[Brackenfall]] and the [[Aurelian Keep]]. Despite the risk, Ellowen maintains composure and avoids revealing the truth to her companions.
 
 During the party’s time aboard [[The Zoraneset]], Ellowen’s connection to the Water Stone deepens. She is pulled into a trance within the water plane, where an unknown entity warns that _“the seven have become the six”_ and urges her toward [[Mount Aemi]] and “the ascension.”
 

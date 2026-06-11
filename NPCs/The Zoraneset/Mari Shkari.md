@@ -41,7 +41,7 @@ He was not universally liked, and tensions existed between him and several crew 
 
 During the voyage, Mari Shkari:
 
-- Spoke with crew and party members about rumours and political events, including suspicious activities in [[Amphos]].
+- Spoke with crew and party members about rumours and political events, including suspicious activities in [[Campaign 1 - Before the Start/DM Notes/Settlements/Cities/Amphos]].
 - Shared stories and warnings about powerful forces tied to elemental magic and history.
 - Enforced ship discipline, occasionally clashing with crew and party members.
 
