@@ -14,4 +14,4 @@ aliases:
 >|**Race**|Human|
 >|**Alias**|Pez|
 
-[[Peles]] is a member of the crew on [[The Zoraneset]]. He is an avid admirer of [[John Ironchest]] and an active follower of the [[World Bodybuilding Order]].
+[[Peles]] is a member of the crew on [[The Zoraneset]]. He is an avid admirer of [[John Ironchest - Player Notes|John Ironchest]] and an active follower of the [[World Bodybuilding Order]].

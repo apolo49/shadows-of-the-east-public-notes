@@ -41,7 +41,7 @@ He was not universally liked, and tensions existed between him and several crew 
 
 During the voyage, Mari Shkari:
 
-- Spoke with crew and party members about rumours and political events, including suspicious activities in [[Campaign 1 - Before the Start/DM Notes/Settlements/Cities/Amphos]].
+- Spoke with crew and party members about rumours and political events, including suspicious activities in [[Campaign 2 - Shadows of the East/Player Notes/Settlements/Amphos|Amphos]].
 - Shared stories and warnings about powerful forces tied to elemental magic and history.
 - Enforced ship discipline, occasionally clashing with crew and party members.
 
@@ -62,7 +62,7 @@ Mari Shkari was discovered dead in the early hours of the morning during the voy
 - The ship descended into **panic and suspicion**, with multiple crew members implicated.
 - An investigation led by the party identified a primary suspect.
 - Upon reaching port, the suspect was handed over to local authorities.
-- [[Ellowen]] used Disguise Self to assume the role of the dead Mari Shkari to solve the murder, upon discovery by [[Big Beefy Bob]] he claims that he has "a lot of blood" and that it "runs in the family."
+- [[Ellowen Aurelian Vale|Ellowen]] used Disguise Self to assume the role of the dead Mari Shkari to solve the murder, upon discovery by [[Big Beefy Bob - Player Notes|Big Beefy Bob]] he claims that he has "a lot of blood" and that it "runs in the family."
 
 Mari Shkari’s death marked a turning point in the voyage, destabilising command and forcing the party into a leadership and investigative role.
 

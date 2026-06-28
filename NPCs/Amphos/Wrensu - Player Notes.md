@@ -7,11 +7,11 @@ title: Wrensu
 >#### _Rogue NPC_
 >|||
 >|-|-|
->|**Born**| [[Setting/Semantics/Dating/index\|9th of Flami 1737 IOG]] (age 44), [[Campaign 1 - Before the Start/DM Notes/Settlements/Cities/Amphos]], [[Eastern Solaran Empire]]|
+>|**Born**| [[Setting/Semantics/Dating/index\|9th of Flami 1737 IOG]] (age 44), [[Campaign 2 - Shadows of the East/Player Notes/Settlements/Amphos\|Amphos]], [[Eastern Solaran Empire]]|
 >|**Background**|Criminal|
 >|**Race**|Goliath|
 
-**Wrensu** is a mysterious figure, associate and adoptive father of [[Riley]], acting as a handler and coordinator for various illicit activities within the city of [[Campaign 1 - Before the Start/DM Notes/Settlements/Cities/Amphos]].
+**Wrensu** is a mysterious figure, associate and adoptive father of [[Riley - Player Notes|Riley]], acting as a handler and coordinator for various illicit activities within the city of [[Campaign 2 - Shadows of the East/Player Notes/Settlements/Amphos|Amphos]].
 
 ## Overview
 Wrensu operates from a shared residence or [[Riley's House|"house"]] with Riley, where he monitors the movements of his associates and maintains a network of informants. He appears well-connected, as his contacts are able to track Riley’s location even when he is taken into custody by the City Watch.

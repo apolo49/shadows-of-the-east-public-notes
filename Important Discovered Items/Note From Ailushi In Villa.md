@@ -1,5 +1,5 @@
-In the year of Lai Puli Ozi and Rai Tabati Utiri 
-12th day of the month of Hanoshi 700 IOG
+In the year of [[Lai Puli Ozi]] and Rai Tabati Utiri 
+[[Setting/Semantics/Dating/index|12th day of the month of Hanoshi 700 IOG]]
 
 The day of the fall is a day I remember.
 A place once ruled by a group became a place ruled by one.
@@ -20,4 +20,4 @@ All institutions wane after all.
 I changed a name from my tongue to the tongue.
 I shall be known as the leader of the empire.
 I shall be henceforth known as:
-_Puli Ailushi Libisai_
+_[[Puli Ailushi Libisai]]_

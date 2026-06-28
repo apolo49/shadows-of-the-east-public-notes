@@ -1,13 +1,13 @@
 ---
 title: John Ironchest's Letter
 ---
-John Ironchest, Peak-Bearer of the High Holds, Living breadth of the Set, Once-kinhelmed staple of the World Bodybuilding Order
+[[John Ironchest - Player Notes|John Ironchest]], Peak-Bearer of the High Holds, Living breadth of the Set, Once-kinhelmed staple of the [[World Bodybuilding Order]]
 
 By word and weight, we greet you.
 
-Know that the World Bodybuilding Order, keeper of shape unbroken and strength well-asoothen, trends its meted eye southward, to the borough of Pithertara**,** a harbour of meethful stone and brine-worn docks.
+Know that the World Bodybuilding Order, keeper of shape unbroken and strength well-asoothen, trends its meted eye southward, to the borough of [[Campaign 2 - Shadows of the East/Player Notes/Settlements/Pithertara|Pithertara]]**,** a harbour of meethful stone and brine-worn docks.
 
-There, under the sunlit cumbels of the Solaran Empire, the Order shall forgather a beknown fand of Standing and Set.
+There, under the sunlit cumbels of the [[Solara|Solaran Empire]], the Order shall forgather a beknown fand of Standing and Set.
 
 Let it be known, this is naught but a gathering.
 
@@ -29,6 +29,6 @@ ebb, if you must.
 Either way, the Order watches.
 
 By insail and spoken weight,  
-Leofric Wordbear  
+[[Leofric Wordbear]]  
 Emissary of the World Bodybuilding Order  
 Keeper of rosters, Sender of Oaths

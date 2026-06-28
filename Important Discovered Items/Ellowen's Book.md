@@ -9,7 +9,7 @@
 >|**Type**|Book|
 >|**Language**|*Unknown*, speaks in [[Aeikas]]|
 >|**Current Possessor**|[[Ellowen Aurelian Vale\|Ellowen]]|
->|**Retrieved**|[[Setting/Semantics/Dating/index\|1st Hanomi 1782 IOG]], [[Temple to Tolaume]], [[Campaign 1 - Before the Start/DM Notes/Settlements/Cities/Amphos]]|
+>|**Retrieved**|[[Setting/Semantics/Dating/index\|1st Hanomi 1782 IOG]], [[Temple to Tolaume]], [[Campaign 2 - Shadows of the East/Player Notes/Settlements/Amphos\|Amphos]]|
 
 **Ellowen's book** is a book that was found by [[Riley]] in the archives of the [[Temple to Tolaume]] in [[Campaign 2 - Shadows of the East/Player Notes/Settlements/Amphos|Amphos]] and was _liberated_ by [[Ellowen]]. Since picking up the book, every night Ellowen has words spoken to her by the book during her meditation. Normally a verse at a time.
 
@@ -66,3 +66,15 @@ when a blow intended to break my ribs instead birthed my awakening.
 I set the house aflame.  
 I do not write this with pride.  
 The fire was not justice; it was hunger.
+
+My masters died.  
+The city nearly burned with them.  
+And I ran—  
+not because I feared death,  
+but because I feared I would become death.
+
+The forest took me in.  
+I knew nothing of spirits, winds, or balance.  
+I knew only that wood burns.
+
+---
