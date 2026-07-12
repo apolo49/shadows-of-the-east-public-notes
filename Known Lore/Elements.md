@@ -32,3 +32,6 @@ It is tied to death, memory, and whatever lingers between. Bearers may find them
 _main article: [[Power]]_
 
 This force is less understood, but no less real. It manifests not as an element, but as raw, embodied strength, discipline made manifest, will given form. It does not whisper or guide. It demands. And in return, it offers the simplest promise of all: that strength, if pursued without compromise, can reshape the world.
+
+## Wind Stone
+_main article: [[Wind]]_

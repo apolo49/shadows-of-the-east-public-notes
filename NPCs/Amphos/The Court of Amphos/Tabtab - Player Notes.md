@@ -32,7 +32,7 @@ Tabtab is found unconscious in her room surrounded by miscellaneous plants and h
 
 Tabtab’s primary interaction with the party occurs during a social encounter where she:
 - Immediately recognises [[Ellowen Aurelian Vale|Ellowen]], addressing her as _“Lady Elowen.”_
-- References locations including [[Brackenfall]] and [[Aurelian Keep]].
+- References locations including [[Duchy of Brackenfall|Brackenfall]] and [[Aurelian Keep]].
 - Engages confidently in conversation, nearly exposing sensitive information.
 During the same encounter:
 - An attempt by [[Riley - Player Notes|Riley]] to manipulate or deceive her fails.

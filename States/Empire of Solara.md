@@ -1,0 +1,13 @@
+---
+aliases:
+  - Amphosian Despotate
+  - Solaran Empire
+  - Eastern Solaran Empire
+  - Solari Empire
+  - Amposphian Despotate
+  - Amphos
+  - Empire of Amphos
+  - Amphosian Empire
+  - Amphosphian Empire
+  - Eastern Solari Empire
+---

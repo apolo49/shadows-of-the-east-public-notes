@@ -10,7 +10,7 @@ aliases:
 >[!infobox|wikipedia]
 ># Alaric Aurelian Vale
 >![[alaric-aurelian-vale.webp|250]]
->#### _Duke of Brackenfall_
+>#### _Duke of [[Duchy of Brackenfall\|Brackenfall]]_
 >|||
 >|-|-|
 >|**Age**|Unknown|

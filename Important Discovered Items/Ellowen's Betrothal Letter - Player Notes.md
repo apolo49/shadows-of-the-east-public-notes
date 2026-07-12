@@ -12,7 +12,7 @@ title: Ellowen's Betrothal Letter
 >|**Language**|[[Aeikas]]|
 >|**Current Possessor**|[[Ellowen Aurelian Vale\|Ellowen]]|
 
-To [[Alaric Aurelian Vale]], Duke of [[Brackenfall]], and to the House that bears his name,
+To [[Alaric Aurelian Vale]], Duke of [[Duchy of Brackenfall|Brackenfall]], and to the House that bears his name,
 
 The Sun moves, and the world follows.  
 Know that the [[Solara|Empire of the Solari]] is attentive to its borders, and mindful of those houses whose blood has long stood between order and shadow. The Vale has endured because it has understood this truth.  

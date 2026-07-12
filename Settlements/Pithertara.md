@@ -3,7 +3,7 @@
 >Pithertara ([[Aeikas]])
 >###### Provincial Capital City
 >Country: [[Solara|Eastern Solaran Empire]]
->Province: [[Pithetara Province]]
+>Province: [[Pithertara Province]]
 >
 >Population: 8,158
 >
