@@ -9,3 +9,4 @@
 >Demonym(s): Itrean
 >Dominant Culture: [[Aeia]]
 >Dominant Religion: [[Setting/Religions/Solari Religion/index|Solari]]
+
