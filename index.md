@@ -38,4 +38,4 @@ Want to see your own personality and un-edited contributions? Then add your own 
 - [[Big Beefy Bob]]
 - [[Yvaquis]]
 - [[John Ironchest]]
-- [[Rhoda of the Shimmering Moontide]]
+- [[Rhoda of the Shimmering Moontide]] (deceased)

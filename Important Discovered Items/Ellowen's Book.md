@@ -78,3 +78,31 @@ I knew nothing of spirits, winds, or balance.
 I knew only that wood burns.
 
 ---
+When he found me,  
+I was little more than a frightened beast with a spark in its chest.  
+He chastised me for upsetting the harmony of the forest.  
+I laughed,  
+for I had never known that the trees possessed a mind  
+or that the wind carried memory.
+
+He was older than stone.  
+I understood this not by the lines on his face  
+but by the weight of his silence.  
+He named me Aetor—the One Who Knows.  
+In his tongue it meant reverence.  
+In mine it became Atiri.  
+A name I chose to keep because it reminded me  
+that knowledge is not a gift but a burden.
+
+---
+He woke me at every dawn.  
+“Again,” he would say,  
+even when my hands bled from drawing sigils in the dirt.  
+His teaching was relentless, and therefore honest.
+
+I learned of fire, of air, of the quiet tongues of trees,  
+of the songs that mountains murmur beneath the crust of the world.  
+I learned that magic is not power but perception.  
+A man who can burn down a house is a danger,  
+but a man who can hear the voice of a stone  
+is a force.
