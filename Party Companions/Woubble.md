@@ -56,7 +56,7 @@ Bonus Actions
 - bloop :( bloop D:
 - bloop bloop :D
 - Bloop! Blup! :O
-- Bloop. Bloop! :[]
+- Bloop. Bloop! :\[\]
 - Bloop Bloooop :o
 - Bloop bloop blooop? :/
 - blooop bluuup... zzz :) zzzz
